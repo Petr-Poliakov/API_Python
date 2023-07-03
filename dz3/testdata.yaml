@@ -1,0 +1,10 @@
+address: https://test-stand.gb.ru
+sleep_time: 4
+browser: chrome
+wait: 3
+username: testtest1
+password: c23b2ed66e
+bad_login: test
+name: User Autotest
+email: peterblack@inbox.ru
+content: Test information
